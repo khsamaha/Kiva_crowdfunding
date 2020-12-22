@@ -286,6 +286,4 @@ loan_amt_group <- Kiva_imp_df %>% select(country,loan_amount,sector,loan_amount_
        y="Count")
 loan_amt_group
 ```
-NO comments for now...
-stay tuned!
-To be contunied
+
