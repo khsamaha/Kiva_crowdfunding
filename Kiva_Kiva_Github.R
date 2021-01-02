@@ -64,7 +64,6 @@ suppressMessages(library(gridExtra))
 suppressMessages(library(DT))
 ```
 
-
 let us check is any dublicates in ID Feature, and then check the missing data
 
 ```{r diff}
